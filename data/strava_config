@@ -1,0 +1,5 @@
+{
+    , "client_id"     : "11806"
+    , "client_secret" : "4e94e873b326053ecef9ce00a92bfb47cae603a0"
+    , "redirect_uri"  : "http://localhost:3000/auth/token_exchange"
+}
